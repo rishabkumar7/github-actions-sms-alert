@@ -3,6 +3,7 @@ SMS alerts when GitHub action fails using Twilio
 
 ### Prerequisites
 What you’ll need for this:
-- A Twilio Account. Sign up for free
+- A Twilio Account. Sign up for free - twilio.com/try-twilio
 - A Twilio phone number
 - A Twilio API Key and Secret
+- GitHub Actions
